@@ -38,23 +38,24 @@
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="1896" height="1008" alt="image" src="https://github.com/user-attachments/assets/fa46c925-d297-44b7-b500-cecbf7a7c3af" />
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/9790b253-de76-45a7-969d-2cd21ec042f7" />
 
-PASTE THE OUTPUT WAVEFORM HERE
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/1ebcdba1-a7ab-4bcf-a0e3-47f897df53df" />
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
