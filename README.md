@@ -55,18 +55,20 @@ PASTE THE CIRCUIT HERE
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1918" height="996" alt="image" src="https://github.com/user-attachments/assets/0e7aec8f-a18e-4deb-b4d2-0e0931fa95bb" />
 
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/88c6cf5d-8f14-4ad9-ba7f-0899cd4bc6a0" />
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1919" height="982" alt="image" src="https://github.com/user-attachments/assets/3dd291cd-f060-4430-95e4-00467954df30" />
 
-PASTE THE OUTPUT WAVEFORM HERE
 ---
 
 ## RESULT
